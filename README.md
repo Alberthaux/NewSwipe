@@ -1,6 +1,6 @@
 # NewSwipe
-This project aims at giving a daiuly brief of world news. 
-The steps are the following: 
+This project aims at giving a daily brief of world news. 
+- The steps are the following: 
 
 	1 - Scrap 8 newspapers titles on home page.
 	2 - Cluster the titles using tf-idf and dbscan, using a custom distance
